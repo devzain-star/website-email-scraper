@@ -16,3 +16,23 @@ A simple Python script to scrape email addresses from a list of websites.
 
    ```bash
    git clone https://github.com/your-username/website-email-scraper.git
+
+2. **Install dependencies:**
+   Install the required libraries using pip:
+    ```bash
+   pip install requests beautifulsoup4
+
+4. **Run the script:**
+   Execute the script in your terminal/command prompt:
+    ```bash
+   pip install requests beautifulsoup4
+
+## Example Output
+
+Below is a sample output of the `email_extractor.py` script:
+
+| Website URL                     | Email Address           |
+|---------------------------------|-------------------------|
+| https://www.example.com         | contact@example.com     |
+| https://www.testsite.com        | info@testsite.com       |
+| https://www.anotherwebsite.com  | support@another.com     |
